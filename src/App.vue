@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>Welcome to Psitron world</h1>
+    <h1>Welcome to MY world</h1>
 	<h2>Upload your data to get Gen Ai predictions</h2>
     <img
       alt="Vue logo"
