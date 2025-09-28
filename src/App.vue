@@ -1,7 +1,9 @@
 <template>
   <div id="app">
 
-    <h1>Welcome to MY And Your of AI world</h1>
+    <h1>Welcome to MY GEN AI world</h1>
+
+
 	<h2>Upload your data to get Gen Ai predictions</h2>
     <img
       alt="Vue logo"
@@ -16,6 +18,7 @@
 
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
+
 
 export default {
   name: "App",
