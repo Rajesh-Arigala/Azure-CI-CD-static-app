@@ -35,7 +35,7 @@ stages:
       timeoutInMinutes: 5 # task times out in 1 day
       inputs:
         notifyUsers: |
-          sarath@psitrontech.com
+          rajesh.arigala@redlegos.com
         instructions: 'Please validate the build configuration and resume'
         onTimeout: 'resume'
 
@@ -71,7 +71,7 @@ stages:
       timeoutInMinutes: 5 # task times out in 1 day
       inputs:
         notifyUsers: |
-          sarath@psitrontech.com
+          rajesh.arigala@redlegos.com
         instructions: 'Please validate the build configuration and resume'
         onTimeout: 'resume'
 
