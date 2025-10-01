@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <h1>Welcome to MY GEN AI world</h1>
+    <h1>Welcome to MY GENerative AI world</h1>
 
 
 	<h2>Upload your data to get Gen Ai predictions</h2>
