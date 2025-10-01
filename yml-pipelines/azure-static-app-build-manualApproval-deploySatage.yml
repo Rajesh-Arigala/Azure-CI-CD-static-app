@@ -35,7 +35,7 @@ stages:
       timeoutInMinutes: 5 # task times out in 1 day
       inputs:
         notifyUsers: |
-          03sarath@gmail.com
+          rajesh.arigala@redlegos.com
         instructions: 'Please validate the build configuration and resume'
         onTimeout: 'resume'
 
@@ -52,7 +52,7 @@ stages:
       submodules: true
     - task: AzureStaticWebApp@0
       inputs:
-        azure_static_web_apps_api_token: $(deployment_token)
+        azure_static_web_apps_api_token: $(variable_2)
         app_location: "/" # Specify the source code path
         api_location: "" # Api source code path - optional
         output_location: "dist" # Built app content directory - optional
