@@ -34,7 +34,7 @@ stages:
       submodules: true
     - task: AzureStaticWebApp@0
       inputs:
-        azure_static_web_apps_api_token: $(New_Variable_Deployment_token_1)
+        azure_static_web_apps_api_token: $(new-variable-1)
         app_location: "/" # Specify the source code path
         api_location: "" # Api source code path - optional
         output_location: "dist" # Built app content directory - optional
