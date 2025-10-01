@@ -1,4 +1,4 @@
-# cicdapp for MLOps Project V24
+# cicdapp for MLOps Project V25
 
 ## Project setup
 ```
@@ -14,6 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+
 
 ### Lints and fixes files
 ```
